@@ -1,2 +1,2 @@
-# coursera-intro-to-angularjs
-This project has classwork files. 
+# Introduction to AngularJS
+This project has classwork files which I took through Coursera online course.
